@@ -1,5 +1,5 @@
 # SSD: Single Shot MultiBox Detector
-Published on 29 Dec 2016.
+Published in Dec 2015.
 By UNC, Google and Univ. of Michigan
 
 *Wei Liu et al.*
