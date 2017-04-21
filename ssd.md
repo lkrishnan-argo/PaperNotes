@@ -15,7 +15,7 @@ Detecting objects of different sizes in images using a single deep neural networ
 
 ## Advantages
 * Does not require object proposals, pixel resampling -- cheaper compute
-* Fast - 59 FPS vs 7 FPS in prev.method
+* Fast - 59 FPS vs 7 FPS in previous method
 * Unified framework for training and inference
 
 ## Connections to previous work
