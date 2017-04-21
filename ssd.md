@@ -1,7 +1,7 @@
 # SSD: Single Shot MultiBox Detector
 Published on 29 Dec 2016.
 By UNC, Google and Univ. of Michigan
-* Wei Liu et al.*
+*Wei Liu et al.*
 
 ## Problem 
 Detecting objects of different sizes in images using a single deep neural network.
