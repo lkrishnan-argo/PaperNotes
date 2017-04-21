@@ -28,11 +28,12 @@ Detecting objects of different sizes in images using a single deep neural networ
   
 ## The model architecture
 ![](ssd.png?raw=true)
-
+* First few layers are based on a standard architecture used for image classificaiton - VGG16.
 
 ## Implementation details
 ![](ssd-default-boxes.png?raw=true)
 
+* Model loss is a weighted sum between localisation loss (smooth L1) and confidence loss.
 
 ## Experiments
 ### Dataset 1
@@ -49,5 +50,5 @@ Detecting objects of different sizes in images using a single deep neural networ
 
 
 ## Comments/Questions 
-* This method requires significantly more labeling effort.
+* This method requires preprocessing labels to map them to default boxes. Ground truth boxes are mapped to default boxes with best Jaccard overlap, match all boxes above a threshold.
 
