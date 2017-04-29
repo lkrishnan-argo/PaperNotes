@@ -5,7 +5,7 @@ By University of Toronto, FZI Research Center, University of Cambridge
 *Marvin Teichmann et. al.*
 
 ## Problem 
-* Joint classification, detection and segmentation of images.
+* Joint classification, detection and segmentation in one forward pass.
 * Fast computation times, suitable for autonomous vehicles.
 
 ## Core Ideas
@@ -48,7 +48,7 @@ By University of Toronto, FZI Research Center, University of Cambridge
 ### KITTI Dataset
 Top of the leaderboard for segementation - trained only on a few hundred images.
 
-![](multiuNetOutput.png?raw=true)
+![](multiietOutput.png?raw=true)
 
 ## Speed
 94 ms for combined detection and segmentation.
