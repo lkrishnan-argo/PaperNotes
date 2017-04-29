@@ -31,7 +31,7 @@ By University of Toronto, FZI Research Center, University of Cambridge
     - Re-zoom layer predicts residuals.
   * Segmentation decoder: FCN architecture
 
-![](multiiNet.png?raw=true)
+![](multiNet.png?raw=true)
 
 ## The training protocol
 * One hot encoding for classification and segmentation.
