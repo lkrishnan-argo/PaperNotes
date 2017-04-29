@@ -7,7 +7,7 @@ By University of Toronto, FZI Research Center, University of Cambridge
 
 ## Problem 
 * Joint classification, detection and segmentation in one forward pass.
-* Fast computation times, suitable for autonomous vehicles.
+* Fast computation time, suitable for autonomous vehicles.
 
 ## Core Ideas
 * Unified architecture where the encoder is shared between various tasks. - facilitates fast inference and transfer learning between tasks.
@@ -52,7 +52,7 @@ Top of the leaderboard for segementation - trained only on a few hundred images.
 ![](multinet-results.png?raw=true)
 
 ## Speed
-94 ms for combined detection and segmentation.
+95 ms for combined detection and segmentation.
 
 
 
