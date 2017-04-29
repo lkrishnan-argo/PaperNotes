@@ -31,7 +31,7 @@ By University of Toronto, FZI Research Center, University of Cambridge
     - Re-zoom layer predicts residuals.
   * Segmentation decoder: FCN architecture
 
-![](MultiNet Segmentation.png?raw=true)
+![](multiiNet.png?raw=true)
 
 ## The training protocol
 * One hot encoding for classification and segmentation.
@@ -48,7 +48,7 @@ By University of Toronto, FZI Research Center, University of Cambridge
 ### KITTI Dataset
 Top of the leaderboard for segementation - trained only on a few hundred images.
 
-![](multiietOutput.png?raw=true)
+![](MultiNet Segmentation.png?raw=true)
 
 ## Speed
 94 ms for combined detection and segmentation.
