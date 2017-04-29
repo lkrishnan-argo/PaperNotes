@@ -48,7 +48,7 @@ By University of Toronto, FZI Research Center, University of Cambridge
 ### KITTI Dataset
 Top of the leaderboard for segementation - trained only on a few hundred images.
 
-![](multiNet-results.png?raw=true)
+![](multinet-results.png?raw=true)
 
 ## Speed
 94 ms for combined detection and segmentation.
