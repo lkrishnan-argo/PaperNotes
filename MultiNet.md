@@ -2,6 +2,7 @@
 
 Published on Dec 22, 2016
 By University of Toronto, FZI Research Center, University of Cambridge
+
 *Marvin Teichmann et. al.*
 
 ## Problem 
