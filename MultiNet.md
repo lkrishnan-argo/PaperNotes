@@ -54,6 +54,12 @@ Top of the leaderboard for segementation - trained only on a few hundred images.
 ## Speed
 95 ms for combined detection and segmentation.
 
+## Code
+https://github.com/MarvinTeichmann/MultiNet
+
+## Comments
+Code base in TensorFlow v1.0, python 2.7
+
 
 
 
